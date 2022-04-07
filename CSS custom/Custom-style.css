@@ -2,16 +2,10 @@
     margin-top: 40px;
 }
 
-[class*="anker"] {
-    text-decoration: none;
+.card-footer button{
+    background-color: rgba(244, 150, 209,.2);
+    color:#3F87F5 ;
 }
-
-[class*="button"] {
-    background-color: var(--root-color);
-    color: white;
-    padding: 10px 24px;
-}
-
-[class*="button"]>.fa-solid {
-    color: white;
+.start-85{
+    left:85% !important;
 }
