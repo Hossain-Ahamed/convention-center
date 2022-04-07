@@ -29,5 +29,24 @@
 }
 
 .download img{
-    width: 30%;
+    width: 25%;
+
+} 
+@media only screen and (max-width:1024px) {
+
+    .download img{
+        width: 28%;
+    }
+}
+@media only screen and (max-width:992px) {
+
+    .download img{
+        width: 30%;
+    }
+}
+@media only screen and (max-width:576px) {
+
+    .download img{
+        width: 60%;
+    }
 }
