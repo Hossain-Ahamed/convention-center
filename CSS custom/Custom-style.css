@@ -13,3 +13,21 @@
 .shadow-bottom-lg {
     box-shadow:0 1rem 1rem -.4rem rgba(0, 0, 0, .175) !important
 }
+
+
+.my-8 {
+    margin-top: 6rem !important;
+    margin-bottom: 6rem !important
+}
+.my-12 {
+    margin-top: 8rem !important;
+    margin-bottom: 8rem !important
+}
+
+.h-custom-50{
+    height: 15rem;
+}
+
+.download img{
+    width: 30%;
+}
